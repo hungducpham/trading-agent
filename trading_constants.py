@@ -1,0 +1,5 @@
+CLOSE = "Close"
+OPEN = "Open"
+VOLUME = "Volume"
+HIGH = "High"
+LOW = "Low"
